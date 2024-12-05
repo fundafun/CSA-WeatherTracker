@@ -1,4 +1,4 @@
-/* Creator: Aryaa Mutha
+/*
 Date: 10/29/24
 Purpose: Simple Weather Tracker with JavaFX
  */
